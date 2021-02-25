@@ -1,0 +1,21 @@
+.select{
+    display: flex;
+    justify-content:stretch;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color:black;
+}
+.select>.one>p{
+    display: inline;
+}
+.select>.two>p{
+    display: inline;
+}
+.one{
+    position: relative;
+    right:-13px;
+}
+.two{
+    position: relative;
+    right:-26px;
+}

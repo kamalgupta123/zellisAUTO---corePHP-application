@@ -1,0 +1,163 @@
+/**Payal's code**/
+a.help_link {
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+}
+a.help_link img{
+	width: 50px;
+    height: 50px;
+}
+.LabelTitle{
+	display:inline-block;
+	margin-top:6px;
+}
+.FFnameCont{
+	margin-bottom:10px;
+}
+.FFnameCont span{
+	float:left;
+	font-weight:bold;
+}
+.FFnameCont div{
+	float:left;
+	margin-left:10px;
+}
+.showUploadCSVForm{
+	margin-top:10px;
+}
+.zlogoA{
+	width: 120px;
+    vertical-align: top;
+}
+.Lnames{
+	margin-left:10px;
+}
+.full_width{
+	width:100%;
+	display:inline-block;
+}
+.err {
+    color: red;
+    font-size: 12px;
+}
+.err-msgs,.success-msgs{width:100%;float:left;margin-top:10px;}
+.auto_icon{width: 16px;
+    margin-right: 10px;opacity: 0.5;}
+.footLinks{list-style:none;display:flex;}
+.footLinks li{margin-left:10px;}
+.err{
+	color:red;
+	font-size:12px;
+}
+.txtAreaField{
+	max-width:100%;
+	width:100% !important;
+}
+.zlogo{display:none;}
+input.IField{
+	width:100% !important;
+}
+.IText {
+    color: #c0c0c0;
+    font-size: 12px;
+}
+.m_block {
+    background: #262626;
+    float: left;
+    margin: 30px;
+    width: 45%;
+    text-align: center;
+    padding: 65px;
+}
+.m_block a {
+    display: inline-block;
+}
+.m_block img {
+    height: auto;
+    margin-bottom: 10px;
+}
+.ebay_fitment_wrap img{
+	width: 90px;
+}
+.website_fitment_wrap img{
+	width:36px;
+}
+.m_block p {
+    margin: 0;
+    color: #fff;
+    font-size: 23px;
+}
+.eBay_logo{
+	width:80px;
+	padding-left: 15px;
+    padding-top: 15px;
+}
+.wf_logo{
+	width:45px;
+	padding-left: 15px;
+    padding-top: 15px;
+}
+p.myversion{
+	font-weight: 600;
+    font-size: 15px;
+}
+#my_search_table_next:after{
+	content: ">";
+	font-size: 14px;
+    font-weight: bold;
+}
+#my_search_table_previous:after{
+	content: "<";
+	font-size: 14px;
+    font-weight: bold;
+}
+div.dataTables_wrapper .dataTables_paginate .paginate_button.current, div.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover{
+	background: #6ad2eb;
+	border-color: #6ad2eb;
+	color:#fff !important;
+}
+
+div.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	background: #6ad2eb;
+	border-color: #6ad2eb;
+}
+div.dataTables_wrapper .dataTables_paginate .paginate_button{
+	border-radius:50%;
+	padding: 3px 8px;
+}
+#my_search_table_first,#my_search_table_last{display:none;}
+/*****/
+td.opener {cursor: pointer;}
+#my_search_table_filter input{ float:right; 
+	float: right;
+    border: 1px solid #000;
+    height: 30px;
+}
+#my_search_table th{ font-size: 14px !important; font-weight: bold !important; }
+#loader_container { background-repeat: no-repeat; width: 85%; height: 350px; position: absolute; z-index: 999; background-image: url(css/images/loader.gif); background-color: #ffffff; background-position-x: 45%; background-size: 10%; background-position-y: center; } 
+#loader_container.myhidden { display: none; }
+#myversion { margin-top: 10px; margin-bottom: 15px; min-width: 300px; }
+.myconfo label { width: 100%; }
+.myversion i { font-weight: 700; font-style: normal; }
+.d-flex{
+	display: flex;
+}
+.m-auto{
+	margin:auto;
+}
+.sidebar-nav-icon img{
+	width:100%
+}
+.border-white-top {
+    border-top: 1px solid #fff;
+}
+.sidebar-nav img {
+    max-width: 100%;
+}
+.width-42{
+	width:42%;
+}
+.width-175{
+    width: 175px;
+}

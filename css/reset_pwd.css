@@ -1,0 +1,108 @@
+body{
+	background: none;
+}
+.err {
+    color: red;
+    font-size: 12px;
+}
+.welcome{
+	padding-top: 10px;
+}
+.welcome h3{
+	margin: 0;
+}
+.welcome h1{
+	margin: 0;
+    margin-top: 20px;
+}
+.welcome h4{
+	margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+#reset_login_button{
+	cursor:pointer;
+}
+.parent_fields label {
+    text-align:left!important;
+}
+.form-group.confirm_registeration_form label {
+    font-size:15px;
+    margin-bottom: 10px;
+}
+.form-group.confirm_registeration_form {
+       width: 100%;
+     text-align: left;
+       margin:auto;
+     height: 90px;
+    margin-top: 28px;
+}
+.form-group.confirm_registeration_form.reset_pass {
+    height: 80px;
+    margin-top: 26px;
+}
+.form-group.confirm_registeration_form input {
+  text-transform: none;
+  text-align:left!important;
+  border-radius: 5px;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+.parent_resgistration_form{
+  text-align: center;
+}
+.parent_resgistration_form {
+    max-width: 520px;
+    padding: 40px 70px;
+    background: #fff;
+    margin: 50px auto;
+    border-radius: 5px;
+	border: 2px solid;
+}
+.confirm_registeration_form input {
+    text-align: center;
+    text-transform: none;
+}
+.form-group.confirm_registeration_form {
+    min-height: 50px;
+height: auto;
+}
+.form-group.confirm_registeration_form {
+       width: 100%;
+     text-align: left;
+       margin:auto;
+     height: 90px;
+    margin-top: 28px;
+}
+
+.confirm_registeration_form input {
+    text-align: center;
+    text-transform: none;
+}
+.select_category{
+	color:white;
+}
+
+/*.customer_register input {background: orange;border: 1px solid white;color: #fff;padding: 6px 24px;box-shadow: none;display: inline-block;}*/
+.my_submitdiv, .customer_register{display: block;/*//text-align: right;*/margin-top: 15px;}
+.success_message{
+    text-align: center;
+    display: none; 
+}
+.success_message h3{
+color:black!important;
+}
+.row.blog_by_date p {
+    margin-left: -15px;
+}
+.success_message.alert.alert-success a h5 {
+    color:  #050779!important;
+}
+
+.success_message.alert.alert-success a h5:hover {
+    color: orange!important;
+    text-decoration: underline;
+}
+.form-control{
+	height: 50px;
+}
